@@ -1,6 +1,6 @@
 # Hi, I'm Rishabh Garg
 
-**Tech Lead at Meta | AI Product Builder | Building with OpenAI, Claude, Gemini, Vertex AI**
+**Tech at Meta | AI Product Builder | Building with OpenAI, Claude, Gemini, Vertex AI**
 
 Software engineer with 10+ years across Meta, Amazon, Swiggy, and D.E. Shaw. I build production AI applications — autonomous multi-agent systems, RAG pipelines, and enterprise document intelligence — using large language models (LLMs) and modern AI infrastructure.
 
