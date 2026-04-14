@@ -1,36 +1,56 @@
 # Hi, I'm Rishabh Garg
 
-**Tech at Meta | AI Product Builder | Building with OpenAI, Claude, Gemini, Vertex AI**
+**Staff Software Engineer at Meta | AI Systems Builder**
 
-Software engineer with 10+ years across Meta, Amazon, Swiggy, and D.E. Shaw. I build production AI applications — autonomous multi-agent systems, RAG pipelines, and enterprise document intelligence — using large language models (LLMs) and modern AI infrastructure.
+I build production AI systems: multi-model agents, retrieval pipelines, evaluator-driven workflows, and guardrailed automation. I care about making language models useful in the real world, where context is messy, reliability matters, and operators need control.
 
-## What I'm Building
+At Meta, I work across ads and AI-native internal systems. Independently, I build AI products in equity research and enterprise document intelligence.
 
-**ValuWiki** — Autonomous AI research agent platform that produces institutional-grade equity analysis
-- 10-stage pipeline orchestrating 5 LLM providers (OpenAI GPT-4o, Claude, Gemini, Perplexity, Grok)
-- AI chat with function calling, Deep Research with evidence tracking, SEC-compliant guardrails
-- Next.js, TypeScript, PostgreSQL, Redis, Vercel AI SDK, Stripe
+## What I Build
 
-**LastDraft AI** — Enterprise document intelligence for Indian government procurement
-- Processes 300+ page tender documents in minutes using Google Vertex AI and RAG (pgvector)
-- ReAct-style AI agent that drafts bid documents from company knowledge base
-- FastAPI, Python, PostgreSQL, AWS, Docker
+- AI-native products that go beyond demos: agents, tools, review loops, and operator surfaces designed for real production use
+- Retrieval and context engineering systems for long-form documents, grounded generation, and evidence-aware reasoning
+- Evaluation and reliability layers: structured outputs, scoring, fallback logic, guardrails, and bounded automation
 
-## Tech I Work With
+## Selected Systems
 
-`OpenAI API` `Anthropic Claude` `Google Vertex AI` `Gemini` `Vercel AI SDK` `RAG` `pgvector` `Function Calling` `Structured Outputs` `Multi-Agent Systems` `AI Guardrails` `Prompt Engineering` `LLM Evaluation`
+**ValuWiki**  
+Autonomous AI research platform for institutional-style equity analysis.
 
-`Python` `TypeScript` `React` `Next.js` `FastAPI` `PostgreSQL` `Redis` `AWS` `Docker` `Vercel`
+- Multi-stage workflow orchestrating `OpenAI`, `Claude`, `Gemini`, `Perplexity`, and `Grok`
+- Deep research, evidence tracking, structured outputs, and financial-analysis guardrails
+- Built with `Next.js`, `TypeScript`, `PostgreSQL`, `Redis`, `Vercel AI SDK`, and `Stripe`
+
+**LastDraft AI**  
+Document intelligence system for complex procurement and bid workflows.
+
+- Extracts and reasons over large tender documents using `Vertex AI`, `RAG`, and `pgvector`
+- Drafts response-ready outputs from company knowledge bases through agentic workflow orchestration
+- Built with `Python`, `FastAPI`, `PostgreSQL`, `AWS`, and `Docker`
+
+**Meta**  
+Ads and AI-native internal systems with a focus on leverage, workflow quality, and reliable automation.
+
+- Built revenue-impacting systems in ads with `$12M+` annual impact
+- Worked on internal AI-native workflows spanning automation, data quality, and decision support
+- Operated across engineering, product, and cross-functional partner teams to ship production systems end to end
+
+## Areas I Like Working In
+
+`Agents` `Evals` `RAG` `Context Engineering` `Structured Outputs` `Function Calling` `Guardrails`
+
+`OpenAI` `Claude` `Gemini` `Vertex AI` `Python` `TypeScript` `FastAPI` `Next.js` `PostgreSQL` `Redis` `AWS`
 
 ## Background
 
-- **Meta** — Tech Lead, Ads (2022–Present). $12M+ revenue impact, AI automation platform, 60+ cross-functional team partnerships
-- **Amazon** — Senior SWE, Prime Video Commerce (2020–2022, London). Global commerce platform serving millions
-- **Swiggy** — Senior SWE, Growth (2018–2020). Launched 2 products from zero. Swiggy Star (top 0.1%)
-- **D.E. Shaw** — Quantitative Developer (2016–2018). ML models for energy markets
-- **IIT Jodhpur** — B.Tech CSE (2012–2016). Top 0.6% JEE
+- **Meta** - Staff Software Engineer / Tech Lead, Ads and AI-native systems
+- **Amazon** - Senior Software Engineer, Prime Video Commerce
+- **Swiggy** - Senior Software Engineer, Growth
+- **D.E. Shaw** - Quantitative Developer
+- **IIT Jodhpur** - B.Tech, Computer Science
 
 ## Connect
 
-- Email: rishabhgarg770@gmail.com
-- Location: Bangalore, India
+- LinkedIn: [rishabhgarg16](https://www.linkedin.com/in/rishabhgarg16/)
+- GitHub: [rishabhgarg16](https://github.com/rishabhgarg16)
+- Email: `rishabhgarg770@gmail.com`
