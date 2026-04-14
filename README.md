@@ -43,7 +43,7 @@ Ads and AI-native internal systems with a focus on leverage, workflow quality, a
 
 ## Background
 
-- **Meta** - Staff Software Engineer / Tech Lead, Ads and AI-native systems
+- **Meta** -  Software Engineer / Tech Lead, Ads and AI-native systems
 - **Amazon** - Senior Software Engineer, Prime Video Commerce
 - **Swiggy** - Senior Software Engineer, Growth
 - **D.E. Shaw** - Quantitative Developer
