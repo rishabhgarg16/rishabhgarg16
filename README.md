@@ -1,6 +1,6 @@
 # Hi, I'm Rishabh Garg
 
-**Staff Software Engineer at Meta | AI Systems Builder**
+**Software Engineer at Meta | AI Systems Builder**
 
 I build production AI systems: multi-model agents, retrieval pipelines, evaluator-driven workflows, and guardrailed automation. I care about making language models useful in the real world, where context is messy, reliability matters, and operators need control.
 
