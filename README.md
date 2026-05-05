@@ -12,26 +12,11 @@ At Meta, I work across ads and AI-native internal systems. Independently, I buil
 - Retrieval and context engineering systems for long-form documents, grounded generation, and evidence-aware reasoning
 - Evaluation and reliability layers: structured outputs, scoring, fallback logic, guardrails, and bounded automation
 
-## Selected Systems
-
-**ValuWiki**  
-Autonomous AI research platform for institutional-style equity analysis.
-
-- Multi-stage workflow orchestrating `OpenAI`, `Claude`, `Gemini`, `Perplexity`, and `Grok`
-- Deep research, evidence tracking, structured outputs, and financial-analysis guardrails
-- Built with `Next.js`, `TypeScript`, `PostgreSQL`, `Redis`, `Vercel AI SDK`, and `Stripe`
-
-**LastDraft AI**  
-Document intelligence system for complex procurement and bid workflows.
-
-- Extracts and reasons over large tender documents using `Vertex AI`, `RAG`, and `pgvector`
-- Drafts response-ready outputs from company knowledge bases through agentic workflow orchestration
-- Built with `Python`, `FastAPI`, `PostgreSQL`, `AWS`, and `Docker`
 
 **Meta**  
 Ads and AI-native internal systems with a focus on leverage, workflow quality, and reliable automation.
 
-- Built revenue-impacting systems in ads with `$12M+` annual impact
+- Built revenue-impacting systems in ads
 - Worked on internal AI-native workflows spanning automation, data quality, and decision support
 - Operated across engineering, product, and cross-functional partner teams to ship production systems end to end
 
